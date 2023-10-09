@@ -21,40 +21,28 @@ This project is a YouTube to MP3 downloader built with Python and Tkinter. It al
 - threading
 - os
 
-## Installation
+## How to Run
 
-1. Clone the repository:
-
-    ```
-    git clone https://github.com/YorkieDev/YT2MP3
-    ```
-
-2. Navigate to the project directory and install the required Python packages:
-
-    ```
-    pip install -r requirements.txt
-    ```
+1. Ensure you have Python installed on your system.
+2. Download or clone this repository.
+3. Run the program by executing `python madlibs.py` in the terminal.
 
 ## Usage
-
-1. Run the application:
-
-    ```
-    python YouTubeSpotify.py
-    ```
-
-2. Enter a valid YouTube URL in the provided field.
-
-3. Click the 'Start Download' button to begin the download.
+1. Enter a valid YouTube URL in the provided field.
+2. Click the 'Start Download' button to begin the download.
 
 ## Troubleshooting
 
 In case of an invalid URL or network issues, an error dialog will appear with information about the potential causes of the problem.
 
-## Contributing
+## How to Contribute
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+1. Fork the repository.
+2. Create a new branch (`git checkout -b new-feature`)
+3. Commit your changes (`git commit -m 'Add some feature'`)
+4. Push to the branch (`git push origin new-feature`)
+5. Create a new Pull Request
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License.
