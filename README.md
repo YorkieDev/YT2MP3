@@ -26,7 +26,7 @@ This project is a YouTube to MP3 downloader built with Python and Tkinter. It al
 1. Clone the repository:
 
     ```
-    git clone https://github.com/yourusername/youtube-to-mp3-downloader.git
+    git clone https://github.com/YorkieDev/YT2MP3
     ```
 
 2. Navigate to the project directory and install the required Python packages:
@@ -40,7 +40,7 @@ This project is a YouTube to MP3 downloader built with Python and Tkinter. It al
 1. Run the application:
 
     ```
-    python main.py
+    python YouTubeSpotify.py
     ```
 
 2. Enter a valid YouTube URL in the provided field.
