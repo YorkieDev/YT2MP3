@@ -24,7 +24,7 @@ This project is a YouTube to MP3 downloader built with Python and Tkinter. It al
 
 1. Ensure you have Python installed on your system.
 2. Download or clone this repository.
-3. Run the program by executing `python madlibs.py` in the terminal.
+3. Run the program by executing `python YouTubeSpotify.py` in the terminal.
 
 ## Usage
 1. Enter a valid YouTube URL in the provided field.
