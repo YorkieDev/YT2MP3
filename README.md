@@ -11,7 +11,6 @@ This project is a YouTube to MP3 downloader built with Python and Tkinter. It al
 - Provides a graphical user interface via Tkinter.
 - Real-time progress tracking during download.
 - Checks for valid YouTube URL input.
-- Multithreading support for responsive UI during download.
   
 ## Requirements
 
